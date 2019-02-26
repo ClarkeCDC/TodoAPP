@@ -1,0 +1,28 @@
+body{
+    background: #0d1521;
+    font-family: tahoma;
+    color: #989898;
+    
+}
+
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#content {
+    width: 400px;
+    margin: 0 auto;
+}
+.google-btn{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+    background: #ff5353;
+    
+}
